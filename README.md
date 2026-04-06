@@ -51,7 +51,6 @@ End-to-end ML case study на датасете IBM Telco Customer Churn.
 ```text
 .
 ├── README.md
-├── requirements.txt
 ├── data/
 │   ├── raw/
 │   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
